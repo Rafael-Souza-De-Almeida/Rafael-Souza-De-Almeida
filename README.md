@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael Almeida e eu sou um desenvolvedor de software.</p>
+<p align="left">My name is Rafael Almeida and I'm a software developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente, sou aluno de Ciência da Computação na UFRRJ. Gosto sempre de aprender novas tecnologias e ferramentas que me possibilitem me tornar um programador melhor. Acredito que a base é fundamental na programação; ao dominá-la, portas inimagináveis se abrem.</p>
+<p align="left">  I am currently a Computer Science student at the Federal Rural University of Rio de Janeiro (UFRRJ). I'm always eager to learn new technologies and tools that help me become a better programmer. I believe that a strong foundation is essential in programming; once mastered, it opens up unimaginable opportunities.</p>
 
 ###
 
